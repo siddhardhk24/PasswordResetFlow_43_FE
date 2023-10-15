@@ -1,0 +1,28 @@
+.center{
+
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+.centerhr{
+
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+.para
+{
+
+    border: 1px solid black;
+    padding: 0.5rem;
+    margin-right: 1rem;
+
+}

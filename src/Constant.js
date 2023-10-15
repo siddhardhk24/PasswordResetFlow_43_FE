@@ -1,0 +1,1 @@
+export const deployed_url = "https://day-43-b3-final.onrender.com"
